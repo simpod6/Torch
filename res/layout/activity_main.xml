@@ -1,0 +1,57 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    tools:ignore="MergeRootFrame" >
+    
+    
+
+    <SurfaceView
+	    android:id="@+id/PREVIEW"
+	    android:layout_width="1dip"
+	    android:layout_height="1dip"/>
+
+    
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1" >
+            
+            <ToggleButton
+        android:id="@+id/torchToggleButton"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="ToggleButton"
+        android:textSize="@dimen/abc_action_bar_default_height"
+        android:layout_weight="1" />
+            
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/app_message" />
+
+               </TableRow>
+        
+    </TableLayout>
+
+</FrameLayout>
+

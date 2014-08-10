@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="torch_icon_2.svg"
+   inkscape:export-filename="D:\Projects\Android\Torch_resources\torch_icon_2.png"
+   inkscape:export-xdpi="236"
+   inkscape:export-ydpi="236">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3837">
+      <stop
+         style="stop-color:#0084ff;stop-opacity:1;"
+         offset="0"
+         id="stop3839" />
+      <stop
+         id="stop3850"
+         offset="1"
+         style="stop-color:#00c5ff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#00c5ff;stop-opacity:1;"
+         offset="1"
+         id="stop3841" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3812">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop3814" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0;"
+         offset="1"
+         id="stop3816" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3845">
+      <stop
+         style="stop-color:#00c5ff;stop-opacity:1;"
+         offset="0"
+         id="stop3847" />
+      <stop
+         id="stop3853"
+         offset="0.79166669"
+         style="stop-color:#00c5ff;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#00c5ff;stop-opacity:0;"
+         offset="1"
+         id="stop3849" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3812"
+       id="radialGradient3826"
+       cx="98.877052"
+       cy="522.70673"
+       fx="98.877052"
+       fy="522.70673"
+       r="66.389481"
+       gradientTransform="matrix(-0.14280266,-6.292206,3.6537953,-0.08292342,-1695.4529,1142.9921)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3812"
+       id="radialGradient3835"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.14280266,-6.292206,3.6537953,-0.08292342,-1695.4529,1142.9921)"
+       cx="98.877052"
+       cy="522.70673"
+       fx="98.877052"
+       fy="522.70673"
+       r="66.389481" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3837"
+       id="linearGradient3854"
+       x1="23.232237"
+       y1="476.48251"
+       x2="638.23224"
+       y2="476.48251"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4.8903066,4.3132111)" />
+    <linearGradient
+       id="linearGradient3812-7">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop3814-4" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0;"
+         offset="1"
+         id="stop3816-0" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3812-7"
+       id="radialGradient3055"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.292206,-0.14280266,0.08292342,3.6537953,-330.88706,-1539.3333)"
+       cx="98.877052"
+       cy="522.70673"
+       fx="98.877052"
+       fy="522.70673"
+       r="66.389481" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3812"
+       id="radialGradient3836"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.292206,-0.14280266,0.08292342,3.6537953,-330.88706,-1539.3333)"
+       cx="98.877052"
+       cy="522.70673"
+       fx="98.877052"
+       fy="522.70673"
+       r="66.389481" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-134.56017"
+     inkscape:cy="606.56458"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     style="display:inline">
+    <rect
+       style="fill:url(#linearGradient3854);fill-opacity:1.0;stroke:none"
+       id="rect3824"
+       width="615"
+       height="615"
+       x="28.122543"
+       y="173.29572"
+       inkscape:export-filename="D:\DL\torch_icon.png"
+       inkscape:export-xdpi="236"
+       inkscape:export-ydpi="236"
+       ry="44.446712" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Torch"
+     style="display:inline">
+    <path
+       style="fill:url(#radialGradient3055);fill-opacity:1.0;stroke:none"
+       d="m 534.11751,222.78967 -63.22433,98.99496 -272.99934,1.01016 -60.76627,-100.00512 c 0,0 198.49497,-73.74114 396.98994,0 z"
+       id="rect3786-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.05520284;stroke-linejoin:round;stroke-opacity:1"
+       id="rect3057"
+       width="131.71178"
+       height="357.26413"
+       x="269.76666"
+       y="407.18265"
+       ry="16.044794" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.44099998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3827"
+       sodipodi:sides="3"
+       sodipodi:cx="379.81735"
+       sodipodi:cy="363.43814"
+       sodipodi:r1="135.36044"
+       sodipodi:r2="58.405796"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6272626"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 379.81736,498.79858 -50.84941,-106.62761 -66.37618,-96.41305 117.76692,9.27693 116.68424,-9.27693 -66.91752,97.35068 z"
+       inkscape:transform-center-x="-1.815114"
+       inkscape:transform-center-y="30.7371"
+       transform="matrix(1.1979254,0,0,1.13959,-119.37031,-22.554098)" />
+    <path
+       style="fill:none;stroke:#00c5ff;stroke-width:5.94627571;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 394.07434,422.40151 -116.90359,0"
+       id="path3770-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\DL\torch_icon.png"
+       inkscape:export-xdpi="236"
+       inkscape:export-ydpi="236" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#00c5ff;stroke-width:14.24400043000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="path3772-7"
+       sodipodi:cx="306.07623"
+       sodipodi:cy="426.57269"
+       sodipodi:rx="7.0710678"
+       sodipodi:ry="6.5659914"
+       d="m 313.1473,426.57269 a 7.0710678,6.5659914 0 1 1 -14.14213,0 7.0710678,6.5659914 0 1 1 14.14213,0 z"
+       transform="matrix(0,0.9799707,-1.1364871,0,820.4169,176.14164)"
+       inkscape:export-filename="D:\DL\torch_icon.png"
+       inkscape:export-xdpi="236"
+       inkscape:export-ydpi="236" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <path
+       style="fill:url(#radialGradient3836);fill-opacity:1;stroke:none"
+       d="m 534.11751,222.78968 -63.22433,98.99496 -272.99934,1.01016 -60.76627,-100.00512 c 0,0 198.49497,-73.74114 396.98994,0 z"
+       id="rect3786"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:18.18600082;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 479.85874,313.60211 -144.2362,10.15131 -144.23619,-10.15131 73.51449,103.43961 0,345.44088 145.3533,0 0,-350.96112 69.6046,-97.91937 z"
+       id="rect2987"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\DL\torch_icon.png"
+       inkscape:export-xdpi="236"
+       inkscape:export-ydpi="236" />
+    <path
+       style="fill:none;stroke:#00c5ff;stroke-width:6.44099998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 405.58715,413.7858 -137.16535,0"
+       id="path3770"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\DL\torch_icon.png"
+       inkscape:export-xdpi="236"
+       inkscape:export-ydpi="236" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#00c5ff;stroke-width:14.24400043;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3772"
+       sodipodi:cx="306.07623"
+       sodipodi:cy="426.57269"
+       sodipodi:rx="7.0710678"
+       sodipodi:ry="6.5659914"
+       d="m 313.1473,426.57269 a 7.0710678,6.5659914 0 1 1 -14.14213,0 7.0710678,6.5659914 0 1 1 14.14213,0 z"
+       transform="matrix(0,1.1855543,-1.3749056,0,926.14449,116.7235)"
+       inkscape:export-filename="D:\DL\torch_icon.png"
+       inkscape:export-xdpi="236"
+       inkscape:export-ydpi="236" />
+  </g>
+</svg>
