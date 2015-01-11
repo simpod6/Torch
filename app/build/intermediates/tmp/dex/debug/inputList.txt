@@ -1,0 +1,3 @@
+D:\Projects\Android\AndroidstudioProjects\Torch\app\build\intermediates\classes\debug
+D:\Projects\Android\AndroidstudioProjects\Torch\app\build\intermediates\pre-dexed\debug\classes-c8e942766b45a4ae4ac798dccafdb7b991c710b6.jar
+D:\Projects\Android\AndroidstudioProjects\Torch\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-651f6a74b12020c2f30997aeb7379bf875654206.jar
